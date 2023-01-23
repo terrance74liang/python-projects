@@ -1,0 +1,5 @@
+URLMongo.txt
+*.pdf
+*.json
+*.mongodb
+database.py
